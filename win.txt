@@ -1,0 +1,1 @@
+hellow this file is created on win-pc to show how the remot works in git
